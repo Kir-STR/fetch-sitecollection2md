@@ -1,1 +1,6 @@
 test/fixtures/** -text
+.claude/rules/** eol=lf
+.glue/** eol=lf
+/CLAUDE.md eol=lf
+/AGENTS.md eol=lf
+/GEMINI.md eol=lf
