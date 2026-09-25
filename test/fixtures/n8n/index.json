@@ -1,0 +1,5 @@
+{
+  "https://api.n8n.io/templates/search?page=1&rows=2&sort=views:desc": "001.txt",
+  "https://api.n8n.io/templates/search?page=2&rows=2&sort=views:desc": "002.txt",
+  "https://api.n8n.io/templates/search?page=3&rows=2&sort=views:desc": "003.txt"
+}
