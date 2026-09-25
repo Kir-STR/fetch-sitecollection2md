@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2",
+  "deliveryId": "2026-09-25T13:52:56.149Z",
+  "completedAt": "2026-09-25T13:52:56.149Z",
+  "engines": [
+    "claude",
+    "codex",
+    "gemini"
+  ],
+  "modules": [
+    {
+      "id": "operator-gate",
+      "decision": "added-from-template",
+      "targetPaths": [
+        ".claude/rules/operator-gate.md"
+      ],
+      "referenceTemplate": "operator-gate.md"
+    },
+    {
+      "id": "secret-hygiene",
+      "decision": "added-from-template",
+      "targetPaths": [
+        ".claude/rules/secret-hygiene.md"
+      ],
+      "referenceTemplate": "secret-hygiene.md"
+    },
+    {
+      "id": "architectural-invariants",
+      "decision": "tailored-from-template",
+      "targetPaths": [
+        ".claude/rules/architectural-invariants.md"
+      ],
+      "referenceTemplate": "architectural-invariants.md"
+    },
+    {
+      "id": "worktree-workflow",
+      "decision": "added-from-template",
+      "targetPaths": [
+        ".claude/rules/worktree-workflow.md"
+      ],
+      "referenceTemplate": "worktree-workflow.md"
+    },
+    {
+      "id": "glossary",
+      "decision": "added-from-template",
+      "targetPaths": [
+        ".claude/rules/glossary.md"
+      ],
+      "referenceTemplate": "glossary.md"
+    }
+  ],
+  "status": "complete",
+  "files": [
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": null,
+      "targetPath": ".claude/rules/architectural-invariants.md",
+      "writtenHash": "03ccfe8e84d6b43313496aaa2a6fef566e4d13e65b70715d9f4c8f81571a730f"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "operator-gate.md",
+      "targetPath": ".claude/rules/operator-gate.md",
+      "writtenHash": "a9c16c539f391878619ff5c47ecd58a926c8d5eab233c64e2c7bcc61e511949f"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "secret-hygiene.md",
+      "targetPath": ".claude/rules/secret-hygiene.md",
+      "writtenHash": "cf52ff219e6554b321c0bec68fdc9c0c1d6c0f1bbbab366f3584ee0da72f500c"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "worktree-workflow.md",
+      "targetPath": ".claude/rules/worktree-workflow.md",
+      "writtenHash": "b2988f7ca3bd53b36c7e2bdfae9948f44503b65552abcd035a71b93b6d04b451"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "glossary.md",
+      "targetPath": ".claude/rules/glossary.md",
+      "writtenHash": "8e2d2a439d789d083e573ca9f855de496a609ba55ce7408cbcb110e9649a3aa6"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "CLAUDE.md.tmpl",
+      "targetPath": "CLAUDE.md",
+      "writtenHash": "b191342dbc1c234192eb527ce4200a21181d98c0946e8697ce738b0432fd86bb"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "AGENTS.md.tmpl",
+      "targetPath": "AGENTS.md",
+      "writtenHash": "10d09b35b65ce6167520cad467a044b8481347df67d271dc04aac6f427c46a62"
+    },
+    {
+      "producerPack": "glue",
+      "packVersion": "0.4.5",
+      "sourceTemplate": "GEMINI.md.tmpl",
+      "targetPath": "GEMINI.md",
+      "writtenHash": "383fddfefdbdd9dc7dfec61df259c32db40d6d0fcc5df29d055719c63474799d"
+    }
+  ]
+}
