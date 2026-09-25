@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      
+            <url>
+              <loc>https://replit.com/partners/cloudflare</loc>
+              <lastmod>2026-05-12T20:51:00.078Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/jpmc</loc>
+              <lastmod>2026-06-02T20:50:03.405Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/integrations</loc>
+              <lastmod>2026-06-17T12:49:55.611Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/salesforce</loc>
+              <lastmod>2026-09-10T03:35:16.793Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/enterprise</loc>
+              <lastmod>2026-05-18T18:45:11.776Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/doola</loc>
+              <lastmod>2026-05-14T01:21:14.786Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/resources</loc>
+              <lastmod>2026-04-24T03:42:08.047Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/microsoft</loc>
+              <lastmod>2026-06-01T20:11:18.897Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/whop</loc>
+              <lastmod>2026-06-18T19:10:00.394Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/brand</loc>
+              <lastmod>2026-04-23T18:12:02.002Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/canvas</loc>
+              <lastmod>2026-07-29T16:08:51.666Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/security</loc>
+              <lastmod>2026-05-15T00:38:15.332Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/stripe</loc>
+              <lastmod>2026-04-28T20:58:25.486Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/skills</loc>
+              <lastmod>2026-06-05T04:53:53.556Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/birthday</loc>
+              <lastmod>2026-04-30T16:46:19.461Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/showcase</loc>
+              <lastmod>2026-04-24T03:42:08.047Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/events</loc>
+              <lastmod>2026-04-24T03:42:08.047Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/shopify</loc>
+              <lastmod>2026-06-01T20:26:48.539Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/faq</loc>
+              <lastmod>2026-05-06T22:28:15.685Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/etisalat</loc>
+              <lastmod>2026-09-10T03:35:16.793Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/faculty-fellows</loc>
+              <lastmod>2026-04-24T03:42:08.047Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/canvas</loc>
+              <lastmod>2026-07-29T16:08:36.216Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/free-business</loc>
+              <lastmod>2026-05-05T18:35:56.055Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/meta</loc>
+              <lastmod>2026-09-08T17:04:54.787Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/stories</loc>
+              <lastmod>2026-05-03T15:26:34.785Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/slack</loc>
+              <lastmod>2026-09-10T03:35:16.793Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/founders</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/squidler</loc>
+              <lastmod>2026-04-16T23:30:31.366Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/contentchallenge/portal</loc>
+              <lastmod>2026-03-18T16:57:03.121Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/contentchallenge/criteria</loc>
+              <lastmod>2026-03-18T22:22:19.006Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/watch</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/startups</loc>
+              <lastmod>2026-04-12T18:46:50.521Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/snowflake</loc>
+              <lastmod>2026-02-11T00:42:46.463Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/startups/sign-in</loc>
+              <lastmod>2026-04-17T01:24:45.373Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/giftcard</loc>
+              <lastmod>2025-12-22T18:49:08.040Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/campus-leaders</loc>
+              <lastmod>2026-04-01T00:18:37.982Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/figma</loc>
+              <lastmod>2026-02-26T22:33:24.641Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/blog</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/google</loc>
+              <lastmod>2026-04-07T19:10:42.707Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue</loc>
+              <lastmod>2025-12-03T17:09:57.049Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu</loc>
+              <lastmod>2026-04-01T00:18:37.982Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/claude-code</loc>
+              <lastmod>2026-01-12T22:15:17.395Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/integrations/slack</loc>
+              <lastmod>2025-11-26T19:01:00.000Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/mentors</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners</loc>
+              <lastmod>2026-01-16T20:03:52.802Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/educators</loc>
+              <lastmod>2026-04-01T00:18:37.982Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/womensday</loc>
+              <lastmod>2026-02-26T22:21:33.699Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/edu/students</loc>
+              <lastmod>2026-04-01T00:18:37.982Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/perks</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/contentchallenge</loc>
+              <lastmod>2026-03-18T16:57:03.121Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/databricks</loc>
+              <lastmod>2026-02-09T19:57:19.504Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/community</loc>
+              <lastmod>2026-02-03T20:55:50.558Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/startups/admin</loc>
+              <lastmod>2026-04-17T01:24:45.373Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/videos</loc>
+              <lastmod>2026-03-09T23:10:07.722Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/free-import</loc>
+              <lastmod>2026-04-22T21:59:36.052Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/sanity</loc>
+              <lastmod>2026-04-16T23:30:31.366Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/plaid</loc>
+              <lastmod>2026-04-07T19:39:18.669Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/community-hub</loc>
+              <lastmod>2026-02-03T20:55:50.558Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/racetorevenue/resources</loc>
+              <lastmod>2026-04-17T16:14:28.208Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/razorpay</loc>
+              <lastmod>2026-02-14T03:31:25.369Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/replit-on-us</loc>
+              <lastmod>2026-03-03T17:49:54.185Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/contentchallenge/rules</loc>
+              <lastmod>2026-03-18T22:22:19.006Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/slack-app</loc>
+              <lastmod>2026-02-11T23:36:12.581Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/certifications</loc>
+              <lastmod>2026-04-22T19:10:05.985Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/slack-app/support</loc>
+              <lastmod>2026-02-12T02:42:11.732Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/revenuecat</loc>
+              <lastmod>2026-03-24T22:22:07.624Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/contentchallenge/faq</loc>
+              <lastmod>2026-03-18T22:22:19.006Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/creators</loc>
+              <lastmod>2026-03-03T00:12:09.258Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/partners/events</loc>
+              <lastmod>2026-03-04T00:10:14.727Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/build</loc>
+              <lastmod>2026-04-27T20:59:19.796Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/discover</loc>
+              <lastmod>2026-04-27T20:59:19.796Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/growth-kit</loc>
+              <lastmod>2026-08-27T17:36:59.873Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/customers</loc>
+              <lastmod>2026-05-28T19:55:26.886Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/slackbot-quickstart</loc>
+              <lastmod>2024-08-06T16:17:43Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/vibe-coding-for-enterprises</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/create-a-virtual-whiteboard-with-roboflow-vision-models</loc>
+              <lastmod>2024-10-04T21:02:54Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-your-own-simple-poll-slack-app</loc>
+              <lastmod>2024-09-14T01:49:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/about</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-e-commerce-support-specialist-part-i</loc>
+              <lastmod>2024-08-06T16:17:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/get-availability-from-google-calendar</loc>
+              <lastmod>2024-09-14T02:54:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/pro</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-empowered-coder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/hubspot-deal-data-api-python-flask</loc>
+              <lastmod>2024-08-22T18:18:30Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news/jordan-government</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/commercial-agreement-3</loc>
+              <lastmod>2026-09-16T01:06:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-a-chat-with-hubspot-ai-slackbot</loc>
+              <lastmod>2024-08-22T20:49:45Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/software-engineers</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/beta-terms</loc>
+              <lastmod>2026-08-27T04:44:40Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/coinbase-developer-platform-agentkit-quickstart-guide</loc>
+              <lastmod>2024-11-17T06:21:54Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/a-chatbot-for-website-q-and-a</loc>
+              <lastmod>2024-08-06T16:17:56Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/comparisons/replit-vs-bolt</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/dpa-previous-version-1</loc>
+              <lastmod>2026-08-04T21:43:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/operations</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/find-duplicate-hubspot-deals</loc>
+              <lastmod>2024-08-22T18:18:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/commercial-agreement-2</loc>
+              <lastmod>2026-09-16T01:06:22Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-game-builder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-a-daily-rss-email-digest</loc>
+              <lastmod>2024-09-14T01:52:41Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/data-analytics-engineering</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/designers</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/build-a-meeting-transcription-python-script</loc>
+              <lastmod>2024-11-13T02:11:40Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/refer</loc>
+              <lastmod>2026-08-27T20:36:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/dpa</loc>
+              <lastmod>2026-08-04T21:44:12Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/gemini-flash-quickstart-guide</loc>
+              <lastmod>2024-08-06T16:18:08Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/developer-relations</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/enterprise-agreement</loc>
+              <lastmod>2026-09-16T01:06:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/using-functions-to-build-a-rag-agent</loc>
+              <lastmod>2024-11-25T19:30:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/publishing</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news/microsoft-partnership</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-e-commerce-support-specialist-part-ii</loc>
+              <lastmod>2024-08-06T16:19:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/zz-teams-agreement</loc>
+              <lastmod>2026-08-27T04:55:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news/funding-announcement</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/rapid-prototyping</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/it</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/pro-agreement</loc>
+              <lastmod>2026-09-16T01:05:42Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-youtube-comment-manager</loc>
+              <lastmod>2024-11-22T23:04:19Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/database</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/collaboration</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/chatbot-builder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-bot-part3-email-sequence-generation</loc>
+              <lastmod>2024-09-16T01:47:11Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-an-ai-company-researcher</loc>
+              <lastmod>2024-11-13T02:11:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/google-gemini-barista-bot</loc>
+              <lastmod>2024-08-06T16:18:33Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/landing-page-builder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/mobile</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-part2-bot-email-enrichment</loc>
+              <lastmod>2024-09-16T01:47:22Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/travel-management-company</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/commercial-agreement</loc>
+              <lastmod>2026-09-16T01:07:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/cloud-development-environment</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/agent</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-an-email-to-linkedin-profile-enrichment-api-with-clay-and-replit</loc>
+              <lastmod>2024-11-08T19:19:30Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-a-chat-with-attio-ai-slackbot</loc>
+              <lastmod>2024-09-14T01:48:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/customers</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-code-editor</loc>
+              <lastmod>2026-08-02T02:05:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/set-up-an-html-form-that-outputs-to-google-sheets</loc>
+              <lastmod>2024-09-14T01:48:46Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/business-apps</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news/funding-announcement-series-c</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-improve-smartlead-email-reply-slack-notifications</loc>
+              <lastmod>2024-08-23T00:51:50Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-enrich-target-accounts-with-ai</loc>
+              <lastmod>2024-09-20T14:20:44Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/dashboards-data-visualization</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-website-builder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-deploy-a-custom-attio-dealflow-dashboard-with-evidence</loc>
+              <lastmod>2024-08-30T16:42:00Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/terms-of-service</loc>
+              <lastmod>2026-09-16T01:01:29Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/privacy-policy-02-24-2025</loc>
+              <lastmod>2026-09-16T01:26:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/additional-resources</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-coding-assistant</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/subprocessors</loc>
+              <lastmod>2026-09-16T01:04:49Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-bot-part1-lead-generation</loc>
+              <lastmod>2025-02-16T01:11:17Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/product-managers</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/deploy-a-gif-conversion-app-on-replit</loc>
+              <lastmod>2024-08-30T17:06:44Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/terms-of-service-02-23-2026</loc>
+              <lastmod>2026-09-16T00:59:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/streamlit-chatbot-quickstart</loc>
+              <lastmod>2024-08-06T16:45:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/extensions-terms</loc>
+              <lastmod>2026-08-27T20:35:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/how-to-build-a-contact-enrichment-app-in-slack</loc>
+              <lastmod>2024-09-14T01:15:46Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/privacy-policy</loc>
+              <lastmod>2026-09-16T01:09:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-bot</loc>
+              <lastmod>2024-12-07T03:35:51Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/comparison</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/smb</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/comparisons/replit-vs-supabase</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/leading-crm-company</loc>
+              <lastmod>2026-07-10T17:04:03Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/news/replit-opens-london-office</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/interview-process</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/products/deployments</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/founders</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/comparisons/replit-vs-lovable</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-bot-part5-hubspot-integration</loc>
+              <lastmod>2024-12-07T03:36:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/a-personal-blog-with-quartz</loc>
+              <lastmod>2024-08-06T16:15:36Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/ai-sdr-slack-bot-part4-email-campaign-creation</loc>
+              <lastmod>2024-09-16T01:43:29Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/image2text-ai-app-with-anthropic</loc>
+              <lastmod>2024-08-06T17:44:19Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/free-org-chart-builder</loc>
+              <lastmod>2024-09-12T04:20:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/careers</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/deployments</loc>
+              <lastmod>2026-09-14T23:26:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/turn-your-google-sheet-into-an-api</loc>
+              <lastmod>2024-08-06T16:18:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/groq-chatbot-quickstart</loc>
+              <lastmod>2024-08-06T16:19:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ai-app-builder</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/gpt-4o-quickstart-guide</loc>
+              <lastmod>2024-08-06T16:19:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/usecases/ebook</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/category/quickstart</loc>
+              <lastmod>2024-09-14T02:04:12Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/guides/category/build-an-application</loc>
+              <lastmod>2024-06-05T23:56:12Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery</loc>
+              <lastmod>2026-09-17T23:09:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life</loc>
+              <lastmod>2026-08-27T23:11:18Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work</loc>
+              <lastmod>2026-08-27T23:11:10Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales</loc>
+              <lastmod>2026-07-28T17:11:57Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/utility</loc>
+              <lastmod>2026-07-28T17:12:30Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses</loc>
+              <lastmod>2026-07-28T17:11:16Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/platform</loc>
+              <lastmod>2026-07-28T17:11:18Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/personal-landing-page</loc>
+              <lastmod>2026-07-28T17:11:23Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/developer-tools</loc>
+              <lastmod>2026-07-28T17:13:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/sports</loc>
+              <lastmod>2026-07-28T17:12:42Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product-and-design</loc>
+              <lastmod>2026-07-28T17:11:51Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education</loc>
+              <lastmod>2026-07-28T17:11:31Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations</loc>
+              <lastmod>2026-07-28T17:11:46Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/work-landing-page</loc>
+              <lastmod>2026-07-28T17:11:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales</loc>
+              <lastmod>2026-07-28T17:11:48Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance</loc>
+              <lastmod>2026-07-28T17:12:19Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/customer-support</loc>
+              <lastmod>2026-07-28T17:09:45Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/community</loc>
+              <lastmod>2026-07-28T17:11:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity</loc>
+              <lastmod>2026-07-28T17:11:43Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product</loc>
+              <lastmod>2026-07-28T17:11:33Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness</loc>
+              <lastmod>2026-07-28T17:11:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/travel</loc>
+              <lastmod>2026-07-28T17:11:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/human-resources</loc>
+              <lastmod>2026-07-28T17:11:54Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment</loc>
+              <lastmod>2026-07-28T17:11:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/app-store-review-slackbot</loc>
+              <lastmod>2026-09-21T20:42:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/customer-support/app-store-review-slackbot</loc>
+              <lastmod>2026-09-21T20:42:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/survival</loc>
+              <lastmod>2026-09-25T09:14:49Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/drawflowrepeat</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/legal-assistant</loc>
+              <lastmod>2026-09-25T10:08:49Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/nutriplan</loc>
+              <lastmod>2026-09-25T06:41:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/joyloop</loc>
+              <lastmod>2026-09-25T02:07:55Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/surfwise</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/the-c</loc>
+              <lastmod>2026-09-25T02:07:46Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/the-c</loc>
+              <lastmod>2026-09-25T02:07:46Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/course-platform</loc>
+              <lastmod>2026-09-25T06:33:50Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/human-resources/course-platform</loc>
+              <lastmod>2026-09-25T06:33:50Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/story-creator</loc>
+              <lastmod>2026-09-21T20:19:54Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/your-watchlists</loc>
+              <lastmod>2026-09-25T06:07:16Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/customer-support-portal</loc>
+              <lastmod>2026-09-25T11:49:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/great-venues-guide</loc>
+              <lastmod>2026-09-25T04:12:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/travel/great-venues-guide</loc>
+              <lastmod>2026-09-25T04:12:58Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/be-mine-valentine</loc>
+              <lastmod>2026-09-25T11:15:57Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/gptoggle</loc>
+              <lastmod>2026-09-25T09:46:12Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/8020-agent</loc>
+              <lastmod>2026-09-24T11:28:48Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/the-escape-plan</loc>
+              <lastmod>2026-09-22T21:09:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/solar-system-visualizer</loc>
+              <lastmod>2026-09-25T10:11:16Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/solar-system-visualizer</loc>
+              <lastmod>2026-09-25T10:11:16Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/lunchvote-ai</loc>
+              <lastmod>2026-09-25T09:17:42Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/racetimes</loc>
+              <lastmod>2026-09-25T06:06:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/personal-landing-page/racetimes</loc>
+              <lastmod>2026-09-25T06:06:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/inflinks</loc>
+              <lastmod>2026-09-25T02:11:59Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/support-bot-ai</loc>
+              <lastmod>2026-09-25T02:07:01Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/human-resources/rippleiq</loc>
+              <lastmod>2026-09-25T02:06:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/rippleiq</loc>
+              <lastmod>2026-09-25T02:06:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/rippleiq</loc>
+              <lastmod>2026-09-25T02:06:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/baa-archive</loc>
+              <lastmod>2026-09-25T11:25:48Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/sales-leaderboard</loc>
+              <lastmod>2026-09-25T09:32:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/sales-leaderboard</loc>
+              <lastmod>2026-09-25T09:32:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/sales-leaderboard</loc>
+              <lastmod>2026-09-25T09:32:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/taxease</loc>
+              <lastmod>2026-09-25T10:31:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/taxease</loc>
+              <lastmod>2026-09-25T10:31:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/human-resources/guruqore</loc>
+              <lastmod>2026-09-25T06:38:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/work-landing-page/guruqore</loc>
+              <lastmod>2026-09-25T06:38:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/retro-coach</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/receipt-and-invoice-parser-ai-document-processing</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/receipt-and-invoice-parser-ai-document-processing</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/receipt-and-invoice-parser-ai-document-processing</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/receipt-and-invoice-parser-ai-document-processing</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/questa</loc>
+              <lastmod>2026-09-25T02:10:01Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/ai-writing-assistant</loc>
+              <lastmod>2026-09-25T07:45:42Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/ai-writing-assistant</loc>
+              <lastmod>2026-09-25T07:45:42Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product-and-design/product-manager-crm</loc>
+              <lastmod>2026-09-25T11:45:01Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/utility/talentvue-ai</loc>
+              <lastmod>2026-09-25T03:43:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/campaignurlbuilder</loc>
+              <lastmod>2026-09-21T20:09:40Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/coachengineai</loc>
+              <lastmod>2026-09-25T02:08:22Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/coachengineai</loc>
+              <lastmod>2026-09-25T02:08:22Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/smart-lead-qualifier</loc>
+              <lastmod>2026-09-25T09:32:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/smart-lead-qualifier</loc>
+              <lastmod>2026-09-25T09:32:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/habit-canvas</loc>
+              <lastmod>2026-09-25T02:48:14Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product-and-design/styles-forge</loc>
+              <lastmod>2026-09-25T10:08:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/styles-forge</loc>
+              <lastmod>2026-09-25T10:08:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/event-rsvp-template</loc>
+              <lastmod>2026-09-25T06:07:08Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/crypto-price-tracker</loc>
+              <lastmod>2026-09-25T07:06:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/utility/crypto-price-tracker</loc>
+              <lastmod>2026-09-25T07:06:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/customer-support/user-insights-hub</loc>
+              <lastmod>2026-09-25T08:15:31Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product-and-design/user-insights-hub</loc>
+              <lastmod>2026-09-25T08:15:31Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product/user-insights-hub</loc>
+              <lastmod>2026-09-25T08:15:31Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/community/singleparent-co</loc>
+              <lastmod>2026-09-25T02:34:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/candidatematch</loc>
+              <lastmod>2026-09-25T12:07:05Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/iboomm</loc>
+              <lastmod>2026-09-25T12:22:51Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/iboomm</loc>
+              <lastmod>2026-09-25T12:22:51Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/utility/iboomm</loc>
+              <lastmod>2026-09-25T12:22:51Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/ontapseo</loc>
+              <lastmod>2026-09-22T07:25:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/vendor-vault</loc>
+              <lastmod>2026-09-25T08:34:24Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/vendor-vault</loc>
+              <lastmod>2026-09-25T08:34:24Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/vibe-cruise-efficiency-simulator</loc>
+              <lastmod>2026-09-22T01:24:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/ad-creative-generator-ai-marketing-tool</loc>
+              <lastmod>2026-09-25T06:20:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/ad-creative-generator-ai-marketing-tool</loc>
+              <lastmod>2026-09-25T06:20:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product/ad-creative-generator-ai-marketing-tool</loc>
+              <lastmod>2026-09-25T06:20:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product/customer-sentiment-dashboard</loc>
+              <lastmod>2026-09-25T02:12:43Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/customer-sentiment-dashboard</loc>
+              <lastmod>2026-09-25T02:12:43Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/lead-scoring-tool</loc>
+              <lastmod>2026-09-25T03:43:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/lead-scoring-tool</loc>
+              <lastmod>2026-09-25T03:43:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/swiftroi</loc>
+              <lastmod>2026-09-25T02:06:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/swiftroi</loc>
+              <lastmod>2026-09-25T02:06:34Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/public-imaginary</loc>
+              <lastmod>2026-09-25T06:10:08Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/community/public-imaginary</loc>
+              <lastmod>2026-09-25T06:10:08Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/wordleap</loc>
+              <lastmod>2026-09-25T02:10:10Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/wordleap</loc>
+              <lastmod>2026-09-25T02:10:10Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/product-and-design/journey-mapper</loc>
+              <lastmod>2026-09-25T10:08:23Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/sarasota-tech</loc>
+              <lastmod>2026-09-25T06:08:44Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/sarasota-tech</loc>
+              <lastmod>2026-09-25T06:08:44Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/epic-dev-battles-of-history</loc>
+              <lastmod>2026-09-25T02:13:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/human-resources/hr-ai-agent</loc>
+              <lastmod>2026-09-25T06:50:41Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/hr-ai-agent</loc>
+              <lastmod>2026-09-25T06:50:41Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/crm</loc>
+              <lastmod>2026-09-25T09:46:09Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/arxiv-daily-ai-recap</loc>
+              <lastmod>2026-09-25T07:24:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/developer-tools/arxiv-daily-ai-recap</loc>
+              <lastmod>2026-09-25T07:24:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/nexusmortgage</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/work-landing-page/nexusmortgage</loc>
+              <lastmod>2026-09-25T10:31:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/work-landing-page/wayfinder-calculator</loc>
+              <lastmod>2026-09-25T02:12:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/birthdaybubbles</loc>
+              <lastmod>2026-09-24T16:12:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/atomical-ai</loc>
+              <lastmod>2026-09-25T02:10:36Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/atomical-ai</loc>
+              <lastmod>2026-09-25T02:10:36Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/proudwork-io</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/platform/proudwork-io</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/developer-tools/aisearchready</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/nfl-war-room</loc>
+              <lastmod>2026-09-25T02:13:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/salesgpt</loc>
+              <lastmod>2026-09-25T06:11:23Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/salesgpt</loc>
+              <lastmod>2026-09-25T06:11:23Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/hat-tip</loc>
+              <lastmod>2026-09-25T07:59:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/travel/find-my-sauna</loc>
+              <lastmod>2026-09-24T13:49:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/find-my-sauna</loc>
+              <lastmod>2026-09-24T13:49:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/storypot</loc>
+              <lastmod>2026-09-25T07:53:05Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/storypot</loc>
+              <lastmod>2026-09-25T07:53:05Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/prue-ai</loc>
+              <lastmod>2026-09-25T05:54:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/prue-ai</loc>
+              <lastmod>2026-09-25T05:54:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/cantoyo</loc>
+              <lastmod>2026-09-25T05:50:05Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/neon-defense</loc>
+              <lastmod>2026-09-25T02:13:00Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/quantbuddy</loc>
+              <lastmod>2026-04-16T20:28:04Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/grriidd</loc>
+              <lastmod>2026-09-24T23:30:37Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/carfull</loc>
+              <lastmod>2026-09-25T01:27:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/f2insights</loc>
+              <lastmod>2026-09-25T02:13:55Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/f2insights</loc>
+              <lastmod>2026-09-25T02:13:55Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/mathgauss</loc>
+              <lastmod>2026-09-25T02:14:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/developer-tools/colab-jetpack</loc>
+              <lastmod>2026-09-25T07:24:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/colab-jetpack</loc>
+              <lastmod>2026-09-25T07:24:21Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/podnudge</loc>
+              <lastmod>2026-09-24T23:48:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/podnudge</loc>
+              <lastmod>2026-09-24T23:48:39Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/productivity/lowcarbpdf</loc>
+              <lastmod>2026-09-25T02:10:27Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/prospecting-workbench</loc>
+              <lastmod>2026-09-25T02:06:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/prospecting-workbench</loc>
+              <lastmod>2026-09-25T02:06:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/prospecting-workbench</loc>
+              <lastmod>2026-09-25T02:06:26Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/saastr-ai-vc-valuation-calculator</loc>
+              <lastmod>2026-09-25T02:11:41Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/saastr-ai-vc-valuation-calculator</loc>
+              <lastmod>2026-09-25T02:11:41Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/narnyara</loc>
+              <lastmod>2026-09-24T16:55:55Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/narnyara</loc>
+              <lastmod>2026-09-24T16:55:55Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/streamflix</loc>
+              <lastmod>2026-09-25T06:06:28Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/operations/vendor-management-portal</loc>
+              <lastmod>2026-09-25T07:34:47Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/travel/plumz</loc>
+              <lastmod>2026-09-25T02:11:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/plumz</loc>
+              <lastmod>2026-09-25T02:11:25Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/ai-follow-up-writer</loc>
+              <lastmod>2026-09-25T02:14:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/ai-follow-up-writer</loc>
+              <lastmod>2026-09-25T02:14:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/ai-follow-up-writer</loc>
+              <lastmod>2026-09-25T02:14:13Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/notion-work-personality-quiz</loc>
+              <lastmod>2026-09-25T02:12:52Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/financial-depth</loc>
+              <lastmod>2026-09-25T02:11:33Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/health-and-fitness/financial-depth</loc>
+              <lastmod>2026-09-25T02:11:33Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/revenuecat-mobile-subscription</loc>
+              <lastmod>2026-09-25T01:51:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/finance/revenuecat-mobile-subscription</loc>
+              <lastmod>2026-09-25T01:51:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/developer-tools/revenuecat-mobile-subscription</loc>
+              <lastmod>2026-09-25T01:51:06Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/revcrew-ai</loc>
+              <lastmod>2026-09-25T10:21:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/work-landing-page/revcrew-ai</loc>
+              <lastmod>2026-09-25T10:21:32Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/entertainment/sf-park-mapper</loc>
+              <lastmod>2026-09-25T06:08:14Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/travel/sf-park-mapper</loc>
+              <lastmod>2026-09-25T06:08:14Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/life/education/sprout-and-bloom-playschool</loc>
+              <lastmod>2026-09-24T23:08:05Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/sales/ai-sales-agent-slack</loc>
+              <lastmod>2026-09-25T03:43:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/marketing-and-sales/ai-sales-agent-slack</loc>
+              <lastmod>2026-09-25T03:43:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/gallery/work/businesses/ai-sales-agent-slack</loc>
+              <lastmod>2026-09-25T03:43:35Z</lastmod>
+            </url>
+          
+            <url>
+              <loc>https://replit.com/mcp</loc>
+              
+            </url>
+          
+            <url>
+              <loc>https://replit.com/security/audit-logs</loc>
+              
+            </url>
+          
+            <url>
+              <loc>https://replit.com/slides</loc>
+              <lastmod>2026-07-31</lastmod>
+            </url>
+          
+    </urlset>
+  
